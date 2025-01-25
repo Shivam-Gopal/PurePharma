@@ -1,4 +1,3 @@
-# The-Backenders-Web_043
 # PurePharma
 
 PurePharma is a comprehensive solution for purchasing health and wellness products online. It provides a user-friendly platform for browsing, filtering, and buying products like multivitamins, ensuring a seamless shopping experience. Built with a robust **React** front-end and a powerful **Node.js** back-end, this app delivers performance and reliability.
